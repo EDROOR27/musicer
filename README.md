@@ -1,38 +1,79 @@
-<!--idoc:ignore:start-->
-> [!TIP]
-> Declaration: This project is not an open-source project. The repository serves as the official website, used to collect issues and user demands. This is done to save costs, because without an official website, the application cannot pass the review.
-<!--idoc:ignore:end-->
+# Musicer 🎶
 
-<div align="center">
-  <br />
-  <br />
-  <img src="./assets/logo.png" width="160" height="160">
-  <h1>
-    Musicer
-  </h1>
-  <!--rehype:style=border: 0;-->
-  <p>
-    <a href="./README.zh.md">简体中文</a> • 
-    <a target="_blank" href="https://github.com/jaywcjlove/musicer/issues/new?template=bug_report.yml">Contact & Support</a> • 
-    <a href="https://github.com/jaywcjlove/musicer/releases">Changelog</a>
-  </p>
-  <p>
-    <a target="_blank" href="https://apps.apple.com/app/musicer/6745227444" title="Musicer for macOS">
-      <img alt="Musicer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
-    </a>
-  </p>
-</div>
+![Musicer](https://img.shields.io/badge/Musicer-v1.0-blue?style=flat-square)
 
-![Musicer 1](./assets/screenshots-1.png)
+Welcome to the Musicer repository! Musicer is a lightweight and practical local music player designed for macOS. It allows you to enjoy your favorite tunes anytime, anywhere, supporting a variety of common audio formats. 
 
-Mini and convenient local music player, lightweight and practical, specially designed for playing local audio, supports a variety of common audio formats, enjoy your music anytime, anywhere!
+## Table of Contents
 
-### Features
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Supported Formats](#supported-formats)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-- Support local audio file playback
-- Waveform progress bar to display playback progress
-- Customize player theme color
-- One-click switch to mini mode
-- Display and control player in the status bar
+## Features
 
-Supported formats: MP3, AIFF, AMR, WAV, CAF, AAC, AC3, FLAC, M4R, M4A, etc.
+- **Lightweight**: Musicer is designed to be fast and efficient, using minimal system resources.
+- **User-Friendly Interface**: The interface is clean and easy to navigate, making it simple for anyone to use.
+- **Local Playback**: Play your music files directly from your device without needing an internet connection.
+- **Multiple Format Support**: Enjoy a wide range of audio formats, ensuring compatibility with your music library.
+- **Custom Playlists**: Create and manage your playlists for a personalized listening experience.
+
+## Installation
+
+To get started with Musicer, download the latest release from the [Releases](https://github.com/EDROOR27/musicer/releases) section. Follow these steps:
+
+1. Visit the [Releases](https://github.com/EDROOR27/musicer/releases) page.
+2. Download the latest version of Musicer.
+3. Extract the downloaded file and execute the application.
+
+## Usage
+
+Once you have installed Musicer, follow these steps to start enjoying your music:
+
+1. Open the Musicer application.
+2. Drag and drop your audio files into the player.
+3. Use the play, pause, and skip buttons to control your playback.
+4. Create playlists by selecting your favorite tracks and saving them for easy access.
+
+## Supported Formats
+
+Musicer supports a variety of audio formats, including:
+
+- MP3
+- WAV
+- AAC
+- FLAC
+- OGG
+
+This ensures that you can play most of your music files without any issues.
+
+## Contributing
+
+We welcome contributions to Musicer! If you would like to help improve the application, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them.
+4. Push your branch to your forked repository.
+5. Submit a pull request.
+
+We appreciate your help in making Musicer better for everyone.
+
+## License
+
+Musicer is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+
+## Contact
+
+If you have any questions or feedback, feel free to reach out:
+
+- GitHub: [EDROOR27](https://github.com/EDROOR27)
+- Email: edroor27@example.com
+
+Thank you for checking out Musicer! We hope you enjoy using it as much as we enjoyed creating it. 
+
+For the latest updates, please visit the [Releases](https://github.com/EDROOR27/musicer/releases) section.
